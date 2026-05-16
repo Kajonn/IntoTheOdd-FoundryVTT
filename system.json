@@ -38,6 +38,16 @@
     "name": "Français",
     "path": "lang/fr.json"
   }],
+  "documentTypes": {
+    "Actor": {
+      "character": { "htmlFields": ["biography"] },
+      "encounter": { "htmlFields": ["description"] }
+    },
+    "Item": {
+      "equipment": { "htmlFields": ["description"] },
+      "attack": { "htmlFields": ["description"] }
+    }
+  },
   "grid": {
     "distance": 5,
     "units": "ft"

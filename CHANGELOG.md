@@ -1,3 +1,6 @@
+# 3.5.1
+- Delete template.json
+
 # 3.5.0
 - Compatibility Foundry V14
 
